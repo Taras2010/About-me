@@ -1,0 +1,49 @@
+body {
+    
+background-image: url(https://ivankivcrl.org/wp-content/uploads/2018/08/pexels-photo-189848.jpeg);
+}
+
+.text {
+
+font-size: 50px;
+display: flex;
+align-items: center;
+
+}
+
+.conteiner {
+
+display: flex;
+
+}
+
+.content {
+
+flex: 2;
+
+}
+
+p{
+    
+    font-size: 20px;
+}
+
+.fol {
+
+font-size: 30px;
+
+}
+
+.hhh {
+
+font-size: 30px;
+
+
+}
+
+.l {
+
+font-size: 30px;
+color: cornsilk;
+
+}
